@@ -1,0 +1,4 @@
+train: D:/onething/yolov5-7.0/yolov5-7.0/data/images
+val: D:/onething/yolov5-7.0/yolov5-7.0/data/images
+nc: 3
+names: ['haishen',  'shanbei',  'haidan']
